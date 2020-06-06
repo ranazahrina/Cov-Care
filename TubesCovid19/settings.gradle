@@ -1,0 +1,2 @@
+rootProject.name='Tubes Covid-19'
+include ':app'

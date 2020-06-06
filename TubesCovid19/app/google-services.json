@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "675946534178",
+    "firebase_url": "https://tubes-covid-19.firebaseio.com",
+    "project_id": "tubes-covid-19",
+    "storage_bucket": "tubes-covid-19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675946534178:android:407965efc4e46d3293417b",
+        "android_client_info": {
+          "package_name": "com.example.tubescovid_19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675946534178-u42q3lc3d288pb11c25k4mekk3rp0o3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdLRmARHhKiOx9BnwQVGkTVveyPVj6jCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675946534178-u42q3lc3d288pb11c25k4mekk3rp0o3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
